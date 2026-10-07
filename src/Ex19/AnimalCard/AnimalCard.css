@@ -1,0 +1,20 @@
+.animal-card {
+  border-color: #c9a000;
+}
+
+.animal-card .animal-img {
+  height: 260px;
+  object-fit: cover;
+}
+
+.animal-card .card-title {
+  font-size: 2rem;
+}
+
+.animal-card .card-body {
+  text-align: left;
+}
+
+.animal-card .btn-wrapper {
+  text-align: center;
+}
